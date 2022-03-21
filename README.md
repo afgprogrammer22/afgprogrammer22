@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afgprogrammer22
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning mobile app development
+- 🌱 I’m currently learning web3
 - 💞️ I’m looking to collaborate on open source project
 
 <!---
